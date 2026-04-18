@@ -133,8 +133,10 @@ python CriminalIdentification.py
 
 ## 👨‍💻 Author
 
-* Your Name
-
+* Palle Amulya
+* Durshetti Charan Teja
+* Odela Sai Charan
+* Md. Madiya
 ---
 
 ## 📌 Note
