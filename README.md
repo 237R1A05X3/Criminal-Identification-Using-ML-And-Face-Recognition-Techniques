@@ -47,13 +47,11 @@ pip install opencv-python numpy mtcnn keras-facenet scikit-learn matplotlib seab
 ---
 
 ## 📁 Project Structure
-
 CriminalIdentification/
 │── CriminalIdentification.py
 │── dataset/
 │── requirements.txt
 │── README.md
-
 ---
 
 ## 🧠 Working Process
